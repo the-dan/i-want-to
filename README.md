@@ -89,3 +89,11 @@ Use [postfix](http://www.postfix.org) with custom transport using [gmail-oauth2-
 
 Develop [inside Docker](https://code.visualstudio.com/docs/remote/containers). Produce images tailored for specific purposes (e.g. image for data science, image for django development, image for go development, etc)
 
+## ... keep track of tasks to do
+
+Use [org-mode](https://orgmode.org) & [beorg](https://beorgapp.com)
+
+## ... develop a habit
+
+Use [Nomie](https://nomie.app)
+
