@@ -97,3 +97,6 @@ Use [org-mode](https://orgmode.org) & [beorg](https://beorgapp.com)
 
 Use [Nomie](https://nomie.app)
 
+## ... manage PKI infrastructure
+
+Use [Vault](https://www.vaultproject.io/docs/secrets/pki)
